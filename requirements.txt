@@ -1,0 +1,7 @@
+kafka-python
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+joblib
